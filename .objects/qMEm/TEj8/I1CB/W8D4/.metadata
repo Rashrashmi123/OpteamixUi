@@ -1,0 +1,13 @@
+﻿{
+  "Name": "INPUT pass",
+  "Type": "Element",
+  "TaxonomyType": "Password",
+  "Id": "W8D4Qc8SBEOLpld1xyfl5w",
+  "Reference": "QBfADDS_akCdZBjc4HEnBQ/W8D4Qc8SBEOLpld1xyfl5w",
+  "ParentRef": "QBfADDS_akCdZBjc4HEnBQ/I1CBzrc92U6FOu3ZCuAHMQ",
+  "Created": "2024-06-13T10:18:41.663875Z",
+  "Updated": "2024-06-13T10:18:41.663875Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
